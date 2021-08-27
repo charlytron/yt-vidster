@@ -1,6 +1,6 @@
 ![yt-vidster](https://www.dropbox.com/s/rldqrq9y8zl78wb/Screen%20Shot%202021-08-27%20at%206.47.42%20PM.jpg?raw=1)
 
-
+I claim no ownership to the video content above
 
 # Getting Started with Create React App
 
