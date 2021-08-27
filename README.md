@@ -1,3 +1,7 @@
+![yt-vidster](https://www.dropbox.com/s/rldqrq9y8zl78wb/Screen%20Shot%202021-08-27%20at%206.47.42%20PM.jpg?raw=1)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
